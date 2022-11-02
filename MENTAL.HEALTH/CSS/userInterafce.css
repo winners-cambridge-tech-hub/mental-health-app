@@ -1,0 +1,78 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.mainCon{
+    margin: 0 13rem 0 13rem;
+}
+
+.section{
+    background-color: white;
+    height: 100vh;
+}
+
+.section1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sec1Content1{
+    margin: 2rem;
+}
+
+.sec1Content1 img{
+    width: 40rem;
+    height: 25rem;
+}
+
+.sec1Con1Text{
+    background-color: white;
+    position: relative;
+    top:-16rem;
+    width: 18rem;
+}
+
+.sec1Content2{
+    margin: 2rem 0 0 -1rem ;
+    
+}
+
+.sec1Content2 img{
+    width:23rem;
+    height: 12.5rem;
+}
+
+.sec1Con2Text{
+    /* background-color: white; */
+    width: 23rem;
+}
+
+.section2{
+    display:flex;
+    flex-wrap: wrap;
+    position:relative;
+    top:-15rem;
+}
+
+.sec2Content1, .sec2Content2, .sec2Content3, .sec2Content4{
+    flex:20px;
+    /* background-color: white; */
+    margin: 5px;
+    width: 50px;
+}
+
+.sec2Content1 img, .sec2Content2 img, .sec2Content3 img, .sec2Content4 img{
+    width:250px;
+    height:100px;
+}
+
+.sec2Content1, .sec2Content2, .sec2Content3, .sec2Content4, h3 h1 h4{
+    font-size:10px;
+}
+
