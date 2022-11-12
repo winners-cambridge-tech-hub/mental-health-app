@@ -87,7 +87,242 @@ li:hover {
     margin-bottom: 20px;
 }
 
+body {
+    margin: 0px;
+    background-color: #ffffff;
 
+}
+
+.top {
+    width: 100%;
+    height: 450px;
+    background-color: white;
+    margin-bottom: 2%;
+
+}
+
+.top1 {
+    width: 48%;
+    height: 94%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    overflow: hidden;
+    float: left;
+    margin: 1%;
+
+
+}
+
+.top2 {
+    width: 100%;
+    height: 75%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 0%;
+}
+
+.top22 {
+    background-image: url("https://www.betterup.com/hubfs/Blog%20Images/Mental%20health%20and%20money/mental-health-and-money-man-with-head-down-stressed-money.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.top3 {
+    background-image: url("https://whyy.org/wp-content/uploads/2022/10/more-black-americans-report-mental-health-concerns-768x512.jpg");
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.top4 {
+    height: 100%;
+    width: 100%;
+    padding-left: 5px;
+    background-color: white;
+    opacity: 1;
+}
+
+.top4 h4 {
+    font-weight: 800px;
+    font-size: 1.4rem;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.1px;
+    padding-top: 3%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.top1:hover {
+    transition-duration: 3s;
+}
+
+.top3:hover {
+    transform: scale(1.1);
+    transition-duration: 3s;
+}
+
+.top4:hover {
+    opacity: 0.7;
+}
+
+.top22:hover {
+    transform: scale(1.1);
+    transition-duration: 3s;
+}
+
+
+
+
+
+
+
+
+
+
+.op {
+    width: 100%;
+    height: 380px;
+    background-color: white;
+    float: left;
+
+
+}
+
+.op1 {
+    width: 23%;
+    background-color: white;
+    height: 100%;
+    margin-bottom: 10px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    overflow: hidden;
+    float: left;
+    margin: 1%;
+
+
+}
+
+.op2 {
+    width: 100%;
+    height: 72%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+
+}
+
+.op22 {
+    background-image: url("https://s.abcnews.com/images/Health/GTY_depression_jt_150110_2_16x9_1600.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.op3 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJkWL7H0bmiOBiG0H77rKReUOuKQHqnST_Q&usqp=CAU");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.op4 {
+    height: 27%;
+    width: 100%;
+    padding-left: 5px;
+    background-color: white;
+    margin-top: 0px;
+    opacity: 1;
+}
+ 
+.op4 h3 {
+    color: black;
+    padding-top: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.op1:hover {
+    transition-duration: 3s;
+}
+
+.op3:hover {
+    transform: scale(1.1);
+    transition-duration: 3s;
+}
+
+.op4:hover {
+    opacity: 0.7;
+}
+
+.op22:hover {
+    transform: scale(1.1);
+    transition-duration: 3s;
+}
+
+@media screen and (max-width: 500px) {
+
+    .top1 {
+        width: 98%;
+    }
+
+    .top {
+        margin-bottom: 2%;
+    }
+
+    .op1 {
+        width: 48%;
+    }
+
+    h4 {
+        font-size: 1rem;
+    }
+
+
+}
+
+
+@media screen and (min-width:500px max-width: 700px) {
+
+    .top1 {
+        width: 48%;
+    }
+
+    .top {
+        margin-bottom: 2%;
+    }
+
+    .op1 {
+        width: 48%;
+    }
+
+}
 
 
 
