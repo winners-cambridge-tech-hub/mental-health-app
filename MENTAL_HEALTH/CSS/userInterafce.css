@@ -1,0 +1,320 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+/* Small devices (Landscape phones, 576 and up) */
+
+@media screen and (min-width:576px){
+    
+    .mainCon{
+        margin: 0 2rem 0 2rem;
+    }
+
+    .section{
+        background-color:#ACAAAA;
+        height: 100rem;
+    }
+    
+    .section1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .sec1Content1{
+        margin: 2rem 2rem 2rem 2.5rem;
+    }
+    
+    .sec1Content1 img{
+        width: 25rem;
+        height: 20rem;
+    }
+    
+    .sec1Con1Text{
+        background-color: white;
+        position: relative;
+        top:-11rem;
+        font-size: 12px;
+        width: 17rem;
+        height: 10rem;
+    }
+    
+    .sec1Content2{
+        margin: -10rem 0 0 2.5rem ;
+    }
+    
+    .sec1Content2 img{
+        width:21rem;
+        height: 11rem;
+    }
+    
+    .sec1Con2Text{
+        width: 21rem;
+        font-size: 10px;
+    }
+
+    .section3{
+        display:flex;
+        flex-wrap: wrap;
+        position: relative;
+        top:2rem;
+        position:relative;
+    }
+
+    .sec3Content1, .sec3Content2, .sec3Content3, .sec3Content4{
+        width: 400px;
+        margin: 0px -2px 0 40px;
+    }
+
+    .sec3Content2, .sec3Content3, .sec3Content4{
+        margin-top: 2rem;
+    }
+     
+    .sec3Content1 img, .sec3Content2 img, .sec3Content3 img, .sec3Content4 img{
+        width:16rem;
+        height:100px;
+    }
+
+    .sec3Content1, .sec3Content2, .sec3Content3, .sec3Content4, h3 h1 h4{
+        font-size:8px;
+    }
+
+}
+    
+/* Medium devices (tablets, 768px and up) */
+
+@media screen and (min-width: 700px){
+
+    body{
+        background-color: brown;
+    }
+    
+    .mainCon{
+        margin: 0 3rem 0 3rem;
+    }
+
+    .section{
+        background-color: white;
+        height: 60rem;
+    }
+    
+    .section1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .sec1Content1{
+        margin: 2rem 2rem 2rem 2.5rem;
+    }
+    
+    .sec1Content1 img{
+        width: 20rem;
+        height: 23rem;
+    }
+    
+    .sec1Con1Text{
+        background-color: white;
+        position: relative;
+        top:-7.3rem;
+        font-size: 10px;
+        width: 17rem;
+        height: 7rem;
+    }
+    
+    .sec1Content2{
+        margin: 2rem 0 0 -1rem ;
+    }
+    
+    .sec1Content2 img{
+        width:11rem;
+        height: 11rem;
+    }
+    
+    .sec1Con2Text{
+        width: 11rem;
+        font-size: 10px;
+    }
+
+    .section3{
+        display:flex;
+        flex-wrap: wrap;
+        position: relative;
+        top:-15rem;
+        position:relative;
+        top:-8rem
+    }
+
+    .sec3Content1, .sec3Content2, .sec3Content3, .sec3Content4{
+        width: 260px;
+        margin: 0px -2px 0 40px;
+    }
+
+    .sec3Content3, .sec3Content4{
+        margin-top: 2rem;
+    }
+     
+    .sec3Content1 img, .sec3Content2 img, .sec3Content3 img, .sec3Content4 img{
+        width:16rem;
+        height:100px;
+    }
+
+    .sec3Content1, .sec3Content2, .sec3Content3, .sec3Content4, h3 h1 h4{
+        font-size:8px;
+    }
+
+}
+
+/* large devices (desktops, 992px and up) */
+
+@media screen and (min-width: 992px){
+
+    body{
+        background-color: blue;
+    }
+    
+    .mainCon{
+        margin: 0 4rem 0 4rem;
+    }
+
+    .section{
+        background-color: white;
+        height: 100vh;
+    }
+    
+    .section1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .sec1Content1{
+        margin: 2rem 2rem 2rem 2.5rem;
+    }
+    
+    .sec1Content1 img{
+        width: 30rem;
+        height: 25rem;
+    }
+    
+    .sec1Con1Text{
+        background-color: white;
+        position: relative;
+        top:-15rem;
+        font-size: 15px;
+        width: 17rem;
+        height: 15rem;
+    }
+    
+    .sec1Content2{
+        margin: 2rem 0 0 -1rem ;
+    }
+    
+    .sec1Content2 img{
+        width:17rem;
+        height: 12.5rem;
+    }
+    
+    .sec1Con2Text{
+        width: 17rem;
+        font-size: 13px;
+    }
+
+    .section3{
+        display:flex;
+        flex-wrap: wrap;
+        position: relative;
+        top:-15rem;
+    }
+
+    .sec3Content1, .sec3Content2, .sec3Content3, .sec3Content4{
+        width: 160px;
+        margin: 0px -2px 0 40px;
+    }
+    
+    .sec3Content1 img, .sec3Content2 img, .sec3Content3 img, .sec3Content4 img{
+        width:11.5rem;
+        height:100px;
+    }
+
+    .sec3Content1, .sec3Content2, .sec3Content3, .sec3Content4, h3 h1 h4{
+        font-size:8px;
+    }
+
+}
+
+/* Extra large devices (Large desktops, 1200px and up) */
+
+@media screen and (min-width: 1200px){
+
+    body{
+        background-color: black;
+    }
+    
+    .mainCon{
+        margin: 0 7rem 0 7rem;
+    }
+
+    .section{
+        background-color: white;
+        height: 100vh;
+    }
+    
+    .section1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .sec1Content1{
+        margin: 2rem 2rem 2rem 2.5rem;
+    }
+    
+    .sec1Content1 img{
+        width: 33rem;
+        height: 25rem;
+    }
+    
+    .sec1Con1Text{
+        background-color: white;
+        position: relative;
+        top:-16rem;
+        width: 18rem;
+    }
+    
+    .sec1Content2{
+        margin: 2rem 0 0 -1rem ;
+    }
+    
+    .sec1Content2 img{
+        width:20rem;
+        height: 12.5rem;
+    }
+    
+    .sec1Con2Text{
+        width: 23rem;
+    }
+
+    .section3{
+        display:flex;
+        flex-wrap: wrap;
+        position: relative;
+        top:-15rem;
+    }
+
+    .sec3Content1, .sec3Content2, .sec3Content3, .sec3Content4{
+        width: 180px;
+        margin: 0px -2px 0 40px;
+    }
+    
+    .sec3Content1 img, .sec3Content2 img, .sec3Content3 img, .sec3Content4 img{
+        width:13rem;
+        height:100px;
+    }
+
+    .sec3Content1, .sec3Content2, .sec3Content3, .sec3Content4, h3 h1 h4{
+        font-size:8px;
+    }
+
+}     
+
+
+
