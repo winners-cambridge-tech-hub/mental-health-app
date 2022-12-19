@@ -1,0 +1,135 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "user": [
+        {
+          "name": "jessica",
+          "password": "jessi3278",
+          "email": "djdhdldjc"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "user": [
+        {
+          "name": "jessica",
+          "password": "jessi3278",
+          "email": "djdhdldjc"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "email": "ghhhjsak",
+      "password": "bhsajk",
+      "name": "sahjckla",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 6
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 7
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 8
+    },
+    {
+      "email": "",
+      "password": "",
+      "name": "",
+      "id": 9
+    },
+    {
+      "email": "jessy@gmail.com",
+      "password": "jksdlkcm;ls",
+      "name": "jessy",
+      "id": 10
+    },
+    {
+      "user": [
+        {
+          "name": "jessica",
+          "password": "jessi3278",
+          "email": "djdhdldjc"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "user": [
+        {
+          "name": "jessica",
+          "password": "jessi3278",
+          "email": "djdhdldjc"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "email": "michaelatubi@gmail.com",
+      "password": "hhkshcsd;acsdckj",
+      "name": "Michael Atubi",
+      "id": 13
+    },
+    {
+      "email": "atubijessica@gmail.com",
+      "password": "ghjkl",
+      "name": "Atubi Jessica",
+      "id": 14
+    },
+    {
+      "email": "michaelatubi@gmail.com",
+      "password": "52782399303",
+      "name": "Michael Atubi",
+      "id": 15
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "McDonalds",
+      "address": "Ely road",
+      "contact": "6238292000",
+      "id": 3
+    },
+    {
+      "name": "Kfc Chicken",
+      "address": "London street",
+      "contact": "0183847645",
+      "id": 4
+    },
+    {
+      "name": "Dominion Church",
+      "address": "Station Road",
+      "contact": "08782389628",
+      "id": 6
+    },
+    {
+      "name": "Wci Foods",
+      "address": "Brown Field Cambridge",
+      "contact": "01173544545",
+      "id": 7
+    }
+  ]
+}
